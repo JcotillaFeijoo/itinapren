@@ -1,0 +1,42 @@
+var nelementsdesp_a=10;
+var nomformdesp_a="fnom01";
+var possibilitats_despDE_a=4;
+
+var correcciodesp_a = new Array(nelementsdesp_a);
+correcciodesp_a[0]="2";
+correcciodesp_a[1]="2";
+correcciodesp_a[2]="1";
+correcciodesp_a[3]="3";
+correcciodesp_a[4]="3";
+correcciodesp_a[5]="2";
+correcciodesp_a[6]="2";
+correcciodesp_a[7]="1";
+correcciodesp_a[8]="3";
+correcciodesp_a[9]="3";
+
+var nelementsdesp_b=4;
+var nomformdesp_b="fnom02";
+var possibilitats_despDE_b=5;
+
+var correcciodesp_b = new Array(nelementsdesp_b);
+correcciodesp_b[0]="4";
+correcciodesp_b[1]="1";
+correcciodesp_b[2]="2";
+correcciodesp_b[3]="3";
+
+var nelementsdesp_c=11;
+var nomformdesp_c="fnom03";
+var possibilitats_despDE_c=13;
+
+var correcciodesp_c = new Array(nelementsdesp_a);
+correcciodesp_c[0]="11";
+correcciodesp_c[1]="6";
+correcciodesp_c[2]="12";
+correcciodesp_c[3]="8";
+correcciodesp_c[4]="4";
+correcciodesp_c[5]="9";
+correcciodesp_c[6]="10";
+correcciodesp_c[7]="1";
+correcciodesp_c[8]="5";
+correcciodesp_c[9]="3";
+correcciodesp_c[10]="7";

@@ -1,0 +1,19 @@
+var nelements=15;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="agra";
+correccio[1]="agrícola";
+correccio[2]="pobra";
+correccio[3]="recta";
+correccio[4]="tendra";
+correccio[5]="negra";
+correccio[6]="esquerra";
+correccio[7]="hipòcrita";
+correccio[8]="amable";
+correccio[9]="ampla";
+correccio[10]="feble";
+correccio[11]="lliure";
+correccio[12]="alegre";
+correccio[13]="salvatge";
+correccio[14]="simple";

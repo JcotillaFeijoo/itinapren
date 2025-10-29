@@ -1,0 +1,29 @@
+var nelements=24;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0] = "meus";
+correccio[1] = "teva";
+correccio[2] = "teves";
+correccio[3] = "seu";
+correccio[4] = "seva";
+correccio[5] = "nostra";
+correccio[6] = "vostre";
+correccio[7] = "vostres";
+correccio[8] = "seus";
+correccio[9] = "seves";
+
+correccio[10] = "el meu";
+correccio[11] = "la teva";
+correccio[12] = "La meva";
+correccio[13] = "la meva";
+correccio[14] = "la teva";
+correccio[15] = "el teu";
+correccio[16] = "Els meus";
+correccio[17] = "les meves";
+correccio[18] = "les teves";
+correccio[19] = "el meu";
+correccio[20] = "el seu";
+correccio[21] = "la nostra";
+correccio[22] = "la vostra";
+correccio[23] = "la seva";

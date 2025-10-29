@@ -1,0 +1,21 @@
+var nelements=17;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="vint-i-nou";
+correccio[1]="vint-i-u";
+correccio[2]="trenta-u";
+correccio[3]="mil nou-cents cinquanta-cinc";
+correccio[4]="mil vuit-cents seixanta-vuit";
+correccio[5]="tres-cents vint-i-set mil quatre-cents noranta-quatre";
+correccio[6]="dos mil cent setanta-cinc";
+correccio[7]="quaranta";
+correccio[8]="mil cinc-centes";
+correccio[9]="tres-cents vuit";
+correccio[10]="mil cinquanta";
+correccio[11]="dues-centes mil";
+correccio[12]="dos-cents set";
+correccio[13]="mil cent";
+correccio[14]="cent-quaranta";
+correccio[15]="tres mil tres";
+correccio[16]="dos milions dos-cents seixanta-vuit mil cinquanta-quatre";

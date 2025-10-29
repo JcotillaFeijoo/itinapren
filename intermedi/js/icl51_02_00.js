@@ -1,0 +1,26 @@
+var nelements_radio_a=21;
+var nomform_radio_a="fnom01";
+var possibilitats_radio_a=2;
+
+var correccio_radio_a = new Array(nelements_radio_a);
+correccio_radio_a[0] = "2";
+correccio_radio_a[1] = "1";
+correccio_radio_a[2] = "1";
+correccio_radio_a[3] = "2";
+correccio_radio_a[4] = "1";
+correccio_radio_a[5] = "2";
+correccio_radio_a[6] = "1";
+correccio_radio_a[7] = "1";
+correccio_radio_a[8] = "1";
+correccio_radio_a[9] = "1";
+correccio_radio_a[10] = "1";
+correccio_radio_a[11] = "1";
+correccio_radio_a[12] = "2";
+correccio_radio_a[13] = "1";
+correccio_radio_a[14] = "1";
+correccio_radio_a[15] = "1";
+correccio_radio_a[16] = "1";
+correccio_radio_a[17] = "2";
+correccio_radio_a[18] = "1";
+correccio_radio_a[19] = "1";
+correccio_radio_a[20] = "2";

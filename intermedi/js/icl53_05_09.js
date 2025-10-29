@@ -1,0 +1,35 @@
+var nelements=29;
+var nomform="fnom02";
+var nelements_desp=3;
+
+var correccio = new Array(nelements);
+correccio[0]="2";
+correccio[1]="2";
+correccio[2]="2";
+correccio[3]="1";
+correccio[4]="2";
+correccio[5]="1";
+correccio[6]="2";
+correccio[7]="2";
+correccio[8]="2";
+correccio[9]="1";
+correccio[10]="2";
+correccio[11]="1";
+correccio[12]="1";
+correccio[13]="1";
+correccio[14]="2";
+correccio[15]="1";
+correccio[16]="2";
+correccio[17]="1";
+correccio[18]="1";
+correccio[19]="2";
+correccio[20]="2";
+correccio[21]="2";
+correccio[22]="1";
+correccio[23]="1";
+correccio[24]="2";
+correccio[25]="1";
+correccio[26]="2";
+correccio[27]="1";
+correccio[28]="1";
+

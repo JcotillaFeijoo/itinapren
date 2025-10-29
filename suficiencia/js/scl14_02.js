@@ -1,0 +1,41 @@
+var nelements_radio=13;
+var nomform_radio="fnom01";
+var possibilitats_radio=2;
+ 
+var correccio_radio = new Array(nelements_radio);
+correccio_radio[0] = "1";
+correccio_radio[1] = "1";
+correccio_radio[2] = "1";
+correccio_radio[3] = "1";
+correccio_radio[4] = "2";
+correccio_radio[5] = "1";
+correccio_radio[6] = "1";
+correccio_radio[7] = "1";
+correccio_radio[8] = "1";
+correccio_radio[9] = "2";
+correccio_radio[10] = "2";
+correccio_radio[11] = "1";
+correccio_radio[12] = "1";
+
+var nelements=18;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="trista";
+correccio[1]="tristos||trists";
+correccio[2]="tristes";
+correccio[3]="fluix";
+correccio[4]="fluixos";
+correccio[5]="fluixes";
+correccio[6]="fix";
+correccio[7]="fixa";
+correccio[8]="fixos";
+correccio[9]="enorme";
+correccio[10]="enormes";
+correccio[11]="enormes";
+correccio[12]="esquerra";
+correccio[13]="esquerres";
+correccio[14]="esquerres";
+correccio[15]="agre";
+correccio[16]="agra";
+correccio[17]="agres";

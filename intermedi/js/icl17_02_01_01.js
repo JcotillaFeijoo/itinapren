@@ -1,0 +1,19 @@
+var nelements=15;
+var nomform="fnom01";
+
+var correccio = new Array(nelements);
+correccio[0]="Per què te'l vas treure?";
+correccio[1]="No podia moure's.";
+correccio[2]="Gairebé no va escriure'ns.";
+correccio[3]="Jo vaig caçar-lo.";
+correccio[4]="Vaig escriure'n tres, de cartes.";
+correccio[5]="Va portar-me molts problemes.";
+correccio[6]="Quants podem obtenir-ne?";
+correccio[7]="Volia distreure'l.";
+correccio[8]="Qui podrà treure'ls?";
+correccio[9]="Volen amagar-nos els fets.";
+correccio[10]="Va preguntar-li coses que no podia respondre.";
+correccio[11]="Has de dir-ho més alt.";
+correccio[12]="Va estudiar-les.";
+correccio[13]="Va dirigir-la.";
+correccio[14]="Vam anar-hi al vespre.";

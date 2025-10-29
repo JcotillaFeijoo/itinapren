@@ -1,0 +1,427 @@
+<html>
+<head>
+<title>El nom</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language='javascript' src='../../../js/ICL13_13a.js'></script>
+<script language='javascript' src='../../../js/ICL13_13b.js'></script>
+<script language='javascript' src='../../../js/utils.js'></script>
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+}
+-->
+</style>
+<link href="../../../../style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString();f="; SameSite=Strict"}document.cookie=a+"="+b+d+f+"; path=/"}
+var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://gencat.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', 'eb50131d-1482-4c39-a0fa-835d5e4dacd6');
+</script>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+  <tr>
+    <td id="cuerpo2"><p align="right" ><a href="javascript:window.print()"  class="boto">Imprimir </a></p>
+	    <h3 align="left" ><br>
+        <strong><img src="../../../../images/ul_exercici.gif" width="19" height="19"> Activitat 13</strong></h3>
+	    <p> <a name="1"></a>1. Completeu aquest exercici </p>
+	      <form name="fnom01">
+	        <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="50%"><table align="center" cellpadding="0" cellspacing="0" id="gris">
+                  <tr>
+                    <td height="25" valign="top"><p><strong>mascul&iacute;</strong></p></td>
+                    <td height="25" valign="top"><p><strong>femen&iacute;</strong></p></td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>cantaire</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta0" type="text" id="normal" onfocus="javascript:tornarescriure('resposta0');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>excursionista</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta1" type="text" id="normal" onfocus="javascript:tornarescriure('resposta1');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>mestre</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta2" type="text" id="normal" onfocus="javascript:tornarescriure('resposta2');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>dansaire</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta3" type="text" id="normal" onfocus="javascript:tornarescriure('resposta3');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>sogre</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta4" type="text" id="normal" onfocus="javascript:tornarescriure('resposta4');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>gallinaire</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta5" type="text" id="normal" onfocus="javascript:tornarescriure('resposta5');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>esp&ograve;s</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta6" type="text" id="normal" onfocus="javascript:tornarescriure('resposta6');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>jardiner</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta7" type="text" id="normal" onfocus="javascript:tornarescriure('resposta7');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>boletaire</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta8" type="text" id="normal" onfocus="javascript:tornarescriure('resposta8');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>alumne</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta9" type="text" id="normal" onfocus="javascript:tornarescriure('resposta9');">                    </td>
+                  </tr>
+                  <tr>
+                    <td width="185" height="25" valign="top"><p>marqu&egrave;s</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta10" type="text" id="normal" onfocus="javascript:tornarescriure('resposta10');">                    </td>
+                  </tr>
+                  <tr>
+                    <td height="25" valign="top"><p>metge</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta11" type="text" id="normal" onfocus="javascript:tornarescriure('resposta11');">                    </td>
+                  </tr>
+                  <tr>
+                    <td height="25" valign="top"><p>gat</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta12" type="text" id="normal" onfocus="javascript:tornarescriure('resposta12');">                    </td>
+                  </tr>
+                  <tr>
+                    <td height="25" valign="top"><p>alcalde</p></td>
+                    <td width="211" height="25" valign="top">
+                      <input name="resposta13" type="text" id="normal" onfocus="javascript:tornarescriure('resposta13');">                    </td>
+                  </tr>
+                </table></td>
+                <td width="50%" valign="top"><div id="resultats1" style="position:absolute; width:255px; height:260px; z-index:1; visibility: hidden;">
+                  <table align="center" cellpadding="0" cellspacing="0" id="azul">
+                    <tr>
+                      <td height="25" valign="top"><p><strong>mascul&iacute;</strong></p></td>
+                      <td height="25" valign="top"><p><strong>femen&iacute;</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>cantaire</p></td>
+                      <td width="185" height="25" valign="top"><p><strong>cantaire</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>excursionista</p></td>
+                      <td width="185" height="25" valign="top"><p><strong> excursionista</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>mestre</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>mestra</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>dansaire</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>dansaire</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>sogre</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>sogra</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>gallinaire</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>gallinaire</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>esp&ograve;s</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>esposa</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>jardiner</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>jardinera</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>boletaire</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>boletaire</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>alumne</p></td>
+                      <td width="211" height="25" valign="top"><p><strong>alumna</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td width="185" height="25" valign="top"><p>marqu&egrave;s</p></td>
+                      <td height="25" valign="top"><p><strong>marquesa</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td height="25" valign="top"><p>metge</p></td>
+                      <td height="25" valign="top"><p><strong>metgessa</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td height="25" valign="top"><p>gat</p></td>
+                      <td height="25" valign="top"><p><strong>gata</strong></p></td>
+                    </tr>
+                    <tr>
+                      <td height="25" valign="top"><p>alcalde</p></td>
+                      <td height="25" valign="top"><p><strong>alcaldessa</strong></p></td>
+                    </tr>
+                  </table>
+                </div></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+              </tr>
+            </table>
+	      </form>
+            <p align="center">
+            		<a href="#1" onclick="javascript:comhohefet();" class="boto">com ho he fet?</a> | 
+            		<a href="#1" onClick="MM_showHideLayers('resultats1','','show')" class="boto">verificaci&oacute;</a> | 
+            		<a href="#1" onClick="javascript:netejarform();MM_showHideLayers('resultats1','','hide')" class="boto">tornar-ho a fer</a></p>	    
+	    <!--<p align="center"><a href="#" class="boto">com ho he fet?</a> | <a href="#" class="boto">verificaci&oacute;</a> | <a href="#" class="boto">tornar-ho a fer</a> </p>-->
+	   
+	   <p><a name="2"></a>2.  Penseu el femen&iacute; d'aquestes paraules. Indiqueu quina columna li correspon. </p>
+	     <form name="fnom02">
+	       <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+             <tr>
+               <td><table width="500" align="center" cellpadding="0" cellspacing="0" id="gris">
+                 <tr>
+                   <td valign="top">&nbsp;</td>
+                   <td valign="top">
+                     <p><strong>invariable</strong></p></td>
+                   <td valign="top"><p><strong>canvi de la vocal &uacute;ltima per -a </strong></p></td>
+                   <td valign="top"><p><strong>afegiment d'una -a </strong></p></td>
+                   <td valign="top"><p><strong>afegiment de -essa a la base l&egrave;xica </strong></p></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>cantaire</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio0" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio0',0);"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio0" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio0',0);"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio0" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio0',0);"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio0" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio0',0);"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>excursionista</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio1" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio1',1);"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio1" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio1',1);"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio1" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio1',1);"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio1" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio1',1);"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>mestre</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio2" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio2',2);"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio2" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio2',2);"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio2" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio2',2);"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio2" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio2',2);"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>dansaire</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio3" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio3');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio3" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio3');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio3" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio3');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio3" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio3');"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>sogre</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio4" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio4');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio4" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio4');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio4" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio4');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio4" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio4');"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>gallinaire</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio5" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio5');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio5" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio5');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio5" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio5');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio5" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio5');"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>esp&ograve;s</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio6" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio6');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio6" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio6');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio6" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio6');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio6" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio6');"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>jardiner</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio7" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio7');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio7" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio7');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio7" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio7');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio7" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio7');"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>boletaire</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio8" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio8');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio8" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio8');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio8" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio8');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio8" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio8');"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>alumne</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio9" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio9');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio9" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio9');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio9" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio9');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio9" value=4 onFocus="javascript:tornarescriureradioSP('resposta_radio9');"></td>
+                 </tr>
+                 <tr>
+                   <td width="128" valign="top"><p>marqu&egrave;s</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio10" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio10');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio10" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio10');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio10" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio10');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio10" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio10');"></td>
+                 </tr>
+                 <tr>
+                   <td valign="top"><p>metge</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio11" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio11');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio11" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio11');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio11" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio11');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio11" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio11');"></td>
+                 </tr>
+                 <tr>
+                   <td valign="top"><p>gat</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio12" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio12');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio12" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio12');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio12" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio12');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio12" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio12');"></td>
+                 </tr>
+                 <tr>
+                   <td valign="top"><p>alcalde</p></td>
+                   <td width="123" valign="top"><input type="radio" id="normal_radio" name="resposta_radio13" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio13');"></td>
+                   <td width="133" valign="top"><input type="radio" id="normal_radio" name="resposta_radio13" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio13');"></td>
+                   <td width="125" valign="top"><input type="radio" id="normal_radio" name="resposta_radio13" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio13');"></td>
+                   <td width="166" valign="top"><input type="radio" id="normal_radio" name="resposta_radio13" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio13');"></td>
+                 </tr>
+               </table></td>
+             </tr>
+             <tr>
+               <td> <p>&nbsp;</p>
+               <p align="center"><a href="#2" onclick="javascript:comhohefetradioSP();" class="boto">com ho he fet?</a> | <a href="#3" onClick="MM_showHideLayers('resultats2','','show')" class="boto">verificaci&oacute;</a> | <a href="#2" onClick="javascript:netejarformradioSP();MM_showHideLayers('resultats2','','hide')" class="boto">tornar-ho a fer</a></p>
+               <p>&nbsp;</p></td>
+             </tr>
+             <tr>
+               <td  height="400" valign="top"><div id="resultats2" style="position:absolute; height:260px; z-index:1; visibility: hidden;">
+                 <table width="500" align="center" cellpadding="0" cellspacing="0" id="azul">
+                   <tr>
+                     <td height="21" valign="top">&nbsp;</td>
+                     <td valign="top">
+                       <p><strong>invariable</strong></p></td>
+                     <td valign="top"><p><strong>canvi de la vocal &uacute;ltima per -a </strong></p></td>
+                     <td valign="top"><p><strong>afegiment d'una -a </strong></p></td>
+                     <td valign="top"><p><strong>afegiment de -essa a la base l&egrave;xica </strong></p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>cantaire</p></td>
+                     <td width="185" valign="top"><p><strong>cantaire</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>excursionista</p></td>
+                     <td width="185" valign="top"><p><strong>excursionista</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>mestre</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p><strong>mestra</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>dansaire</p></td>
+                     <td width="185" valign="top"><p><strong>dansaire</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>sogre</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p><strong>sogra</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>gallinaire</p></td>
+                     <td width="185" valign="top"><p><strong>gallinaire</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>esp&ograve;s</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p><strong>esposa</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>jardiner</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p><strong>jardinera</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>boletaire</p></td>
+                     <td width="185" valign="top"><p><strong>boletaire</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>alumne</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p><strong>alumna</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td width="185" height="20" valign="top"><p>marqu&egrave;s</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                     <td width="185" valign="top"><p><strong>marquesa</strong></p></td>
+                     <td width="185" valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td height="20" valign="top"><p>metge</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p><strong>metgessa</strong></p></td>
+                   </tr>
+                   <tr>
+                     <td height="20" valign="top"><p>gat</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p><strong>gata</strong></p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                   </tr>
+                   <tr>
+                     <td height="20" valign="top"><p>alcalde</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p>&nbsp;</p></td>
+                     <td valign="top"><p><strong>alcaldessa</strong></p></td>
+                   </tr>
+                 </table>
+               </div></td>
+             </tr>
+           </table>
+	     </form>
+         <p align="center">&nbsp;</p>  
+  </tr>
+</table>
+</body>
+</html>

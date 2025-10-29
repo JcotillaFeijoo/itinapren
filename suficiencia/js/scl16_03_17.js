@@ -1,0 +1,23 @@
+var nelements=19;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="vençut";
+correccio[1]="cregut";
+correccio[2]="plogut";
+correccio[3]="tingut";
+correccio[4]="temut";
+correccio[5]="conegut";
+correccio[6]="mogut";
+correccio[7]="rigut";
+correccio[8]="rebut";
+correccio[9]="valgut";
+correccio[10]="sabut";
+correccio[11]="segut";
+correccio[12]="perdut";
+correccio[13]="vingut";
+correccio[14]="begut";
+correccio[15]="volgut";
+correccio[16]="pogut";
+correccio[17]="calgut";
+correccio[18]="degut";

@@ -1,0 +1,21 @@
+var nelements=17;
+var nomform="fnom02";
+ 
+var correccio = new Array(nelements);
+correccio[0] = "anissos";
+correccio[1] = "gasos";
+correccio[2] = "mesos";
+correccio[3] = "versos";
+correccio[4] = "trossos";
+correccio[5] = "passos";
+correccio[6] = "avisos";
+correccio[7] = "matalassos";
+correccio[8] = "permisos";
+correccio[9] = "pisos";
+correccio[10] = "interessos";
+correccio[11] = "peixos";
+correccio[12] = "nassos";
+correccio[13] = "nusos";
+correccio[14] = "pesos";
+correccio[15] = "vasos";
+correccio[16] = "guixos";

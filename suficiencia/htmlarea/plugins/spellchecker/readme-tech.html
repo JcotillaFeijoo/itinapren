@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.2//EN">
+<html>
+  <head>
+    <title>Itineraris d'aprenentatge. Sufici&egrave;ncia.</title>
+  <script type="text/javascript">
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString();f="; SameSite=Strict"}document.cookie=a+"="+b+d+f+"; path=/"}
+var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://gencat.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', 'eb50131d-1482-4c39-a0fa-835d5e4dacd6');
+</script>
+</head>
+
+  <body>
+    <h1>Itineraris d'aprenentatge. Sufici&egrave;ncia.</h1>
+
+    <p>The Itineraris d'aprenentatge. Sufici&egrave;ncia. subsystem consists of the following
+      files:</p>
+
+    <ul>
+
+      <li>spell-checker.js &mdash; the spell checker plugin interface for
+        HTMLArea</li>
+
+      <li>spell-checker-ui.html &mdash; the HTML code for the user
+        interface</li>
+
+      <li>spell-checker-ui.js &mdash; functionality of the user
+        interface</li>
+
+      <li>spell-checker-logic.cgi &mdash; Perl CGI script that checks a text
+        given through POST for spelling errors</li>
+
+      <li>spell-checker-style.css &mdash; style for mispelled words</li>
+
+      <li>lang/en.js &mdash; main language file (English).</li>
+
+    </ul>
+
+    <h2>Process overview</h2>
+
+    <p>
+      When an end-user clicks the "spell-check" button in the HTMLArea
+      editor, a new window is opened with the URL of "spell-check-ui.html".
+      This window initializes itself with the text found in the editor (uses
+      <tt>window.opener.SpellChecker.editor</tt> global variable) and it
+      submits the text to the server-side script "spell-check-logic.cgi".
+      The target of the FORM is an inline frame which is used both to
+      display the text and correcting.
+    </p>
+
+    <p>
+      Further, spell-check-logic.cgi calls Aspell for each portion of plain
+      text found in the given HTML.  It rebuilds an HTML file that contains
+      clear marks of which words are incorrect, along with suggestions for
+      each of them.  This file is then loaded in the inline frame.  Upon
+      loading, a JavaScript function from "spell-check-ui.js" is called.
+      This function will retrieve all mispelled words from the HTML of the
+      iframe and will setup the user interface so that it allows correction.
+    </p>
+
+    <h2>The server-side script (spell-check-logic.cgi)</h2>
+
+    <p>
+      <strong>Unicode safety</strong> &mdash; the program <em>is</em>
+      Unicode safe.  HTML entities are expanded into their corresponding
+      Unicode characters.  These characters will be matched as part of the
+      word passed to Aspell.  All texts passed to Aspell are in Unicode
+      (when appropriate).  <strike>However, Aspell seems to not support Unicode
+      yet (<a
+        href="http://mail.gnu.org/archive/html/aspell-user/2000-11/msg00007.html">thread concerning Aspell and Unicode</a>).
+      This mean that words containing Unicode
+      characters that are not in 0..255 are likely to be reported as "mispelled" by Aspell.</strike>
+    </p>
+
+    <p>
+      <strong style="font-variant: small-caps; color:
+      red;">Update:</strong> though I've never seen it mentioned
+      anywhere, it looks that Aspell <em>does</em>, in fact, speak
+      Unicode.  Or else, maybe <code>Text::Aspell</code> does
+      transparent conversion; anyway, this new version of our
+      SpellChecker plugin is, as tests show so far, fully
+      Unicode-safe... well, probably the <em>only</em> freeware
+      Web-based spell-checker which happens to have Unicode support.
+    </p>
+
+    <p>
+      The Perl Unicode manual (man perluniintro) states:
+    </p>
+
+    <blockquote>
+      <em>
+        Starting from Perl 5.6.0, Perl has had the capacity to handle Unicode
+        natively.  Perl 5.8.0, however, is the first recommended release for
+        serious Unicode work.  The maintenance release 5.6.1 fixed many of the
+        problems of the initial Unicode implementation, but for example regular
+        expressions still do not work with Unicode in 5.6.1.
+      </em>
+    </blockquote>
+
+    <p>In other words, do <em>not</em> assume that this script is
+      Unicode-safe on Perl interpreters older than 5.8.0.</p>
+
+    <p>The following Perl modules are required:</p>
+
+    <ul>
+      <li><a href="http://search.cpan.org/search?query=text%3a%3aaspell&mode=all" target="_blank">Text::Aspell</a></li>
+      <li><a href="http://search.cpan.org/search?query=xml%3a%3adom&mode=all" target="_blank">XML::DOM</a></li>
+      <li><a href="http://search.cpan.org/search?query=cgi&mode=all" target="_blank">CGI</a></li>
+    </ul>
+
+    <p>Of these, only Text::Aspell might need to be installed manually.  The
+      others are likely to be available by default in most Perl distributions.</p>
+
+    <hr />
+    <address><a href="http://dynarch.com/mishoo/">Mihai Bazon</a></address>
+<!-- Created: Thu Jul 17 13:22:27 EEST 2003 -->
+<!-- hhmts start --> Last modified: Fri Jan 30 19:14:11 EET 2004 <!-- hhmts end -->
+<!-- doc-lang: English -->
+  </body>
+</html>

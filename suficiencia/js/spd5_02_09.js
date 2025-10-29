@@ -1,0 +1,11 @@
+var nelementsdesp_a=6;
+var nomformdesp_a="fnom01";
+var possibilitats_despDE_a=7;
+
+var correcciodesp_a = new Array(nelementsdesp_a);
+correcciodesp_a[0]="5";
+correcciodesp_a[1]="4";
+correcciodesp_a[2]="1";
+correcciodesp_a[3]="2";
+correcciodesp_a[4]="6";
+correcciodesp_a[5]="3";

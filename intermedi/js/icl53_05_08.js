@@ -1,0 +1,22 @@
+var nelements=18;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="ix";
+correccio[1]="x";
+correccio[2]="x";
+correccio[3]="x";
+correccio[4]="x";
+correccio[5]="ix";
+correccio[6]="ix";
+correccio[7]="ix";
+correccio[8]="ix";
+correccio[9]="x";
+correccio[10]="ix";
+correccio[11]="ix";
+correccio[12]="ix";
+correccio[13]="ix";
+correccio[14]="ix";
+correccio[15]="x";
+correccio[16]="x";
+correccio[17]="ix";

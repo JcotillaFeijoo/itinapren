@@ -1,0 +1,20 @@
+var nelements=16;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="fa";
+correccio[1]="feia";
+correccio[2]="fèiem";
+correccio[3]="féssiu";
+correccio[4]="fes";
+correccio[5]="faria";
+correccio[6]="faré||farem";
+correccio[7]="faran";
+correccio[8]="fer";
+correccio[9]="faci";
+correccio[10]="fareu";
+correccio[11]="fes";
+correccio[12]="faig";
+correccio[13]="féssim";
+correccio[14]="fent";
+correccio[15]="feu";

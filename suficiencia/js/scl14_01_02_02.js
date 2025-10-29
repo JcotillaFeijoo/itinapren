@@ -1,0 +1,26 @@
+var nelements=22;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[1]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[2]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[3]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[4]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[5]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[6]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[7]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[8]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[9]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[10]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[11]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[12]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[13]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[14]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[15]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[16]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[17]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[18]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[19]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";
+correccio[20]="contemporani||ros||rar||barat||tranquil||valent||esquerre||còmode";
+correccio[21]="difícil||noble||fidel||mòbil||potent||amargant||afable||prudent||tibant||abundant||nòmada";

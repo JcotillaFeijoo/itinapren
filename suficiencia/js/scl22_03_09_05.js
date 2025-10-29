@@ -1,0 +1,22 @@
+var nelements=18;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0] = "la maleta grossa";
+correccio[1] = "definit";
+correccio[2] = "la portaré||La portaré||La portaré.||la portaré.";
+correccio[3] = "això";
+correccio[4] = "neutre";
+correccio[5] = "No ho demanis||no ho demanis||No ho demanis.||no ho demanis.";
+correccio[6] = "que vindrà aviat";
+correccio[7] = "oració";
+correccio[8] = "ho penso||Ho penso||ho penso.||Ho penso.";
+correccio[9] = "la carn";
+correccio[10] = "definit";
+correccio[11] = "La compraràs?||la compraràs?";
+correccio[12] = "carn";
+correccio[13] = "indefinit";
+correccio[14] = "En compraràs?||en compraràs?";
+correccio[15] = "les claus del pis";
+correccio[16] = "definit";
+correccio[17] = "les volen||Les volen||les volen.||Les volen.";

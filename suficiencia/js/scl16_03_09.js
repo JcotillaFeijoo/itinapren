@@ -1,0 +1,25 @@
+var nelements=21;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="begui";
+correccio[1]="crec";
+correccio[2]="cregués";
+correccio[3]="comprenc";
+correccio[4]="comprengui";
+correccio[5]="comprengués";
+correccio[6]="estar";
+correccio[7]="estic";
+correccio[8]="estigués";
+correccio[9]="caure";
+correccio[10]="caigui";
+correccio[11]="caigués";
+correccio[12]="dur";
+correccio[13]="duc";
+correccio[14]="dugui";
+correccio[15]="dic";
+correccio[16]="digui";
+correccio[17]="digués";
+correccio[18]="encenc";
+correccio[19]="encengui";
+correccio[20]="encengués";

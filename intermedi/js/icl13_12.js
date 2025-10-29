@@ -1,0 +1,61 @@
+var nelements=26;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0] = "baronessa";
+correccio[1] = "abadessa";
+correccio[2] = "deessa";
+correccio[3] = "marquesa";
+correccio[4] = "patrona";
+correccio[5] = "pelegrina";
+correccio[6] = "truja";
+correccio[7] = "dona";
+correccio[8] = "cabra";
+correccio[9] = "florista";
+correccio[10] = "tia";
+correccio[11] = "muller";
+correccio[12] = "ovella";
+correccio[13] = "nora||jove";
+correccio[14] = "homicida";
+correccio[15] = "convidada";
+correccio[16] = "advocada||advocadessa";
+correccio[17] = "secretària";
+correccio[18] = "princesa";
+correccio[19] = "somera";
+correccio[20] = "actriu";
+correccio[21] = "cunyada";
+correccio[22] = "enemiga";
+correccio[23] = "indivídua";
+correccio[24] = "guardiana";
+correccio[25] = "euga||egua";
+
+var proposta = new Array(nelements);
+proposta[0]= "baró";
+proposta[1]="abat";
+proposta[2]="déu";
+proposta[3]="marquès";
+proposta[4]="patró";
+proposta[5]="pelegrí";
+proposta[6]="porc";
+proposta[7]="home";
+proposta[8]="boc";
+proposta[9]="florista";
+proposta[10]="oncle";
+proposta[11]= "marit";
+proposta[12]="marrà";
+proposta[13]="gendre";
+proposta[14]="homicida";
+proposta[15]="convidat";
+proposta[16]="advocat";
+proposta[17]="secretari";
+proposta[18]="príncep"
+proposta[19]="ase";
+proposta[20]="actor";
+proposta[21]="cunyat";
+proposta[22]="enemic";
+proposta[23]="individu";
+proposta[24]="guardià";
+proposta[25]="cavall";
+
+
+

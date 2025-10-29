@@ -1,0 +1,26 @@
+var nelements=22;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="ha anat";
+correccio[1]="aniria||havia anat";
+correccio[2]="anant";
+correccio[3]="anava";
+correccio[4]="vaig";
+correccio[5]="aneu";
+correccio[6]="anirem";
+correccio[7]="vagis||aneu";
+correccio[8]="anaves||anàveu";
+correccio[9]="van";
+correccio[10]="vés";
+correccio[11]="vagi";
+correccio[12]="aniries";
+correccio[13]="vagi";
+correccio[14]="anessis";
+correccio[15]="anés";
+correccio[16]="anàveu";
+correccio[17]="anirien";
+correccio[18]="anés";
+correccio[19]="va";
+correccio[20]="anirà";
+correccio[21]="anés";

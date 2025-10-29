@@ -1,0 +1,21 @@
+var nelements=17;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="Encén";
+correccio[1]="interès";
+correccio[2]="estén";
+correccio[3]="néixer";
+correccio[4]="atén";
+correccio[5]="ciències";
+correccio[6]="pretén";
+correccio[7]="érem";
+correccio[8]="puré";
+correccio[9]="espès";
+correccio[10]="paciència";
+correccio[11]="comprèn";
+correccio[12]="progrés";
+correccio[13]="sisè";
+correccio[14]="cafè";
+correccio[15]="desprès";
+correccio[16]="església";

@@ -1,0 +1,19 @@
+var nelements=15;
+var nomform="fnom01";
+
+var correccio = new Array(nelements);
+correccio[0]="endeutat";
+correccio[1]="ennuvolat";
+correccio[2]="Enrajolarem";
+correccio[3]="enfebrat";
+correccio[4]="enjoiat";
+correccio[5]="embenar";
+correccio[6]="embutxacar";
+correccio[7]="enverinat";
+correccio[8]="engabiar";
+correccio[9]="emmagatzemen";
+correccio[10]="empresonat";
+correccio[11]="enquitranar";
+correccio[12]="ensabones";
+correccio[13]="envernissar";
+correccio[14]="enrabiés";

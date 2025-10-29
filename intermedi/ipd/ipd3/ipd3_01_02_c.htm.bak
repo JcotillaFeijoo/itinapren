@@ -1,0 +1,220 @@
+<html>
+<head>
+<title>Argumentatiu</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../../style.css" rel="stylesheet" type="text/css">
+<link href="../../../style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	margin-top: 0px;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+<script language='javascript' src='../../js/IPD3_01_02.js'></script>
+<script language='javascript' src='../../js/utils2.js'></script>
+<script type="text/javascript">
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString();f="; SameSite=Strict"}document.cookie=a+"="+b+d+f+"; path=/"}
+var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://gencat.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', 'eb50131d-1482-4c39-a0fa-835d5e4dacd6');
+</script>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+  <tr>
+    <td id="cuerpo2"><p align="right"><a href="javascript:window.print()" class="boto">Imprimir </a></p>
+	  <p>Llegeix aquest text atentament i adona't de quins s&oacute;n els arguments que es donen i en qu&egrave; es fonamenten. </p>
+	  <table width="600" align="center" cellpadding="0" cellspacing="0" id="gris">
+        <tr>
+          <td width="600"><p align="justify">Marta@catalonia.net <br>
+            Assumpte: m&agrave;quina de caf&egrave; i microones </p>
+            <p align="justify">Marta, responc breument a les preguntes que ens fas. <br>
+            Pel que fa al tema de la m&agrave;quina de caf&egrave;, no tindria res a dir, ja que jo no la faig servir mai. Per&ograve; si em permets que opini com a observador, em sembla correcte llogar-la: &eacute;s m&eacute;s petita, diuen que fa el caf&egrave; m&eacute;s bo i m&eacute;s barat i, a banda del lloguer mensual i la compra de les c&agrave;psules, sempre quedaran calerons que podreu destinar a alguna cosa. Per&ograve; t&eacute; algun inconvenient: haureu de fer torns per tenir sempre aigua i llet a punt (per als tallats!) i per netejar-la sistem&agrave;ticament. Per&ograve; pesen m&eacute;s els avantatges, oi? </p>
+            <p align="justify">Sobre el microones, s&iacute; que tinc una cosa a dir: ja era hora! Fora el fam&oacute;s fogonet! Fora la pudor de fregits a la feina! Fora la pudor de gas but&agrave;! El microones &eacute;s r&agrave;pid, inodor, net, s'endolla i no fa servir bombones... A partir d'ara podrem portar menjars precuinats, no haurem de fer m&eacute;s cues, podrem portar els &quot;termos&quot; amb sopetes... Si cal alguna aportaci&oacute; econ&ograve;mica, compteu amb mi. </p>
+            <p align="justify">Jaume </p>            </td>
+        </tr>
+      </table>	  
+	  <h3><b><br> <img src="../../../images/ul_exercici.gif" width="19" height="19"> Activitats de reflexi&oacute; </b></h3>
+      <p><b><a name="1"></a>1.</b>  En quina de les dues q&uuml;estions en Jaume es troba m&eacute;s segur? </p>      
+      <table width="600"  border="0" cellspacing="0" align="center">
+        <tr>
+          <td><table width="600" align="center" cellpadding="0" cellspacing="0" id="gris">
+            <tr>
+              <td width="182"><p align="left"> <a href="#1" align="left" onClick="MM_showHideLayers('solucio1','','show','solucio1b','','hide')">M&agrave;quina de caf&egrave;</a></p></td>
+            </tr>
+            <tr>
+              <td><p align="left"><a href="#1" onClick="MM_showHideLayers('solucio1','','hide','solucio1b','','show')" align="#1" > Microones </a></p></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="40"></td>
+        </tr>
+        <tr>
+          <td height="50" valign="top">            <div id="solucio1" style="position:absolute; height:115px; z-index:1; visibility: hidden;">
+            <table width="600" align="center" cellpadding="0" cellspacing="0" id="azul">
+              <tr>
+                <td width="182"><p align="left">M&agrave;quina de caf&egrave; </p></td>
+                <td width="400"><p align="left">No. En Jaume no se sent segur dels seus arguments perqu&egrave; no l'utilitza mai</p></td>
+              </tr>
+            </table>
+          </div> 
+		  <div id="solucio1b" style="position:absolute; height:47px; z-index:1; visibility: hidden;">
+            <table width="600" align="center" cellpadding="0" cellspacing="0" id="azul">
+              <tr>
+                <td width="182"><p align="left">Microones </p></td>
+                <td width="400"><p align="left">D'acord. [Té més arguments per parlar del microones perquè el fa ervir i hi està intererssat]</p></td>
+              </tr>
+
+            </table>
+          </div>           
+          <p>&nbsp;</p></td>
+        </tr>
+      </table>     
+      <p><a name="2"></a>2. Clica el tipus d'argumentaci&oacute; que fa en Jaume. </p>
+      <p class="red">(clicar l'opci&oacute; correcta. Queda marcada si l'encerten) </p>
+	  <form name="fnom01">
+      <table width="600"  border="0" cellspacing="0" align="center">
+        <tr>
+          <td><table align="center" cellpadding="0" cellspacing="0" id="gris">
+            <tr>
+              <td width="560" valign="middle"><p align="left">Copiar el que fan altres persones o col&middot;lectius</p></td>
+              <td width="40" valign="middle"><img src="../../../images/au.gif" id="fnom01rr00"><input type="radio" id="normal_radio" name="resposta_radio0" value=1 onfocus="javascript:tornarescriureradioSP('resposta_radio0','0');"></td>
+            </tr>
+            <tr>
+              <td valign="middle"><p align="left">Basar-se en experi&egrave;ncies anteriors </p></td>
+              <td width="40" valign="middle"><img src="../../../images/au.gif" id="fnom01rr01"><input type="radio" id="normal_radio" name="resposta_radio0" value=2 onfocus="javascript:tornarescriureradioSP('resposta_radio0','1');"></td>
+            </tr>
+            <tr>
+              <td valign="middle"><p align="left">Sospesar els pros i els contres </p></td>
+              <td width="40" valign="middle"><img src="../../../images/au.gif" id="fnom01rr02"><input type="radio" id="normal_radio" name="resposta_radio0" value=3 onfocus="javascript:tornarescriureradioSP('resposta_radio0','2');"></td>
+            </tr>
+            <tr>
+              <td valign="middle"><p align="left">Fer servir m&agrave;ximes o dites socialment acceptades </p></td>
+              <td width="40" valign="middle"><img src="../../../images/au.gif" id="fnom01rr03"><input type="radio" id="normal_radio" name="resposta_radio0" value=4 onfocus="javascript:tornarescriureradioSP('resposta_radio0','3');"></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="40"><div align="center">
+            <p><a href="#2" onclick="javascript:comhohefetradioSP();" class="boto">com ho he fet?</a> | <a href="#2" class="boto" onClick="MM_showHideLayers('solucio1','','hide','solucio2','','show')">verificaci&oacute;</a> | <a href="#2" class="boto" onClick="javascript:netejaformradioSP();MM_showHideLayers('solucio1','','hide','solucio2','','hide')">tornar-ho a fer</a></p>
+          </div></td>
+        </tr>
+        <tr>
+          <td height="100" valign="top">            <div align="center" id="solucio2" style="position:absolute; height:115px; z-index:2; visibility: hidden;">
+            <table align="center" cellpadding="0" cellspacing="0" id="azul" width="600">
+              <tr>
+                <td width="560" valign="top"><p align="left">Copiar el que fan altres persones o col&middot;lectius</p></td>
+                <td width="40" valign="top"><p>&nbsp; </p></td>
+              </tr>
+              <tr>
+                <td width="400" valign="top"><p align="left">Basar-se en experi&egrave;ncies anteriors </p></td>
+                <td width="40" valign="top"><p>&nbsp; </p></td>
+              </tr>
+              <tr>
+                <td width="400" valign="top"><p align="left">Sospesar els pros i els contres </p></td>
+                <td width="40" valign="top" align="center"><p align="center"> x </p></td>
+              </tr>
+              <tr>
+                <td width="400" valign="top"><p align="left">Fer servir m&agrave;ximes o dites socialment acceptades </p></td>
+                <td width="40" valign="top"><p>&nbsp; </p></td>
+              </tr>
+            </table>
+          </div>            </td>
+        </tr>
+      </table>  </form>    
+      <p><b><a name="3"></a>3.</b> Fes una llista d'avantatges i d'inconvenients de l'&uacute;s de la nova m&agrave;quina de caf&egrave;, segons en Jaume. </p>
+      <table width="600"  border="0" cellspacing="0" align="center">
+        <tr>
+          <td><table width="600" align="center" cellpadding="0" cellspacing="0" id="gris">
+            <tr>
+              <td width="288" valign="top"><p align="center"><b>Avantatges de la m&agrave;quina de caf&egrave; </b></p></td>
+              <td width="288" valign="top"><p align="center"><b>Inconvenients de la m&agrave;quina de caf&egrave; </b></p></td>
+            </tr>
+            <tr>
+              <td width="288" valign="top"><p align="center"><input type="text" name="textfield422186"></p></td>
+              <td width="288" valign="top"><p align="center"><input type="text" name="textfield422187"></p></td>
+            </tr>
+            <tr>
+              <td width="288" valign="top"><p align="left">El caf&egrave; &eacute;s m&eacute;s bo </p></td>
+              <td width="288" valign="top"><p align="center">
+                  <input type="text" name="textfield422188">
+              </p></td>
+            </tr>
+            <tr>
+              <td width="288" valign="top"><p align="center">
+                  <input type="text" name="textfield4221811">
+              </p></td>
+              <td width="288" valign="top"><p align="center">
+                  <input type="text" name="textfield422189">
+              </p></td>
+            </tr>
+            <tr>
+              <td width="288" valign="top"><p align="center">
+                  <input type="text" name="textfield4221812">
+              </p></td>
+              <td width="288" valign="top"><p align="center">
+                  <input type="text" name="textfield4221810">
+              </p></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="40"><p align="center" class="red"><a href="#3" class="boto" onClick="MM_showHideLayers('solucio1','','hide','solucio2','','hide','solucio3','','show')">soluci&oacute;</a></p></td>
+        </tr>
+        <tr>
+          <td height="100" valign="top"><div id="solucio3" style="position:absolute; height:115px; z-index:3; visibility: hidden;">
+            <table cellpadding="0" cellspacing="0" id="azul" width="600">
+              <tr>
+                <td width="288" valign="top"><p align="center"><b>Avantatges de la m&agrave;quina de caf&egrave; </b></p></td>
+                <td width="288" valign="top"><p align="center"><b>Inconvenients de la m&agrave;quina de caf&egrave; </b></p></td>
+              </tr>
+              <tr>
+                <td width="288" valign="top"><p align="left">&Eacute;s m&eacute;s petita </p></td>
+                <td width="288" valign="top"><p align="left">Torns per comprar llet i aigua </p></td>
+              </tr>
+              <tr>
+                <td width="288" valign="top"><p align="left">El caf&egrave; &eacute;s m&eacute;s bo </p></td>
+                <td width="288" valign="top"><p align="left">Torns per netejar-la </p></td>
+              </tr>
+              <tr>
+                <td width="288" valign="top"><p align="left">El caf&egrave; &eacute;s m&eacute;s barat </p></td>
+                <td width="288" valign="top"><p align="left">&nbsp; </p></td>
+              </tr>
+              <tr>
+                <td width="288" valign="top"><p align="left">Quedaran diners per a altres coses </p></td>
+                <td width="288" valign="top"><p align="left">&nbsp; </p></td>
+              </tr>
+            </table>
+          </div>            <p>&nbsp;</p>            </td>
+        </tr>
+      </table>      
+</td>
+  </tr>
+</table>
+</body>
+</html>

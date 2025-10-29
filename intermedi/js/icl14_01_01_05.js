@@ -1,0 +1,33 @@
+var nelements=28;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="minúscul||obscur||verinós||impotent||cadavèric||momentani||secret";
+correccio[1]="minúscula||obscura||verinosa||impotent||cadavèrica||momentània||secreta";
+correccio[2]="minúsculs||obscurs||verinosos||impotents||cadavèrics||momentanis||secrets";
+correccio[3]="minúscules||obscures||verinoses||impotents||cadavèriques||momentànies||secretes";
+correccio[4]="minúscul||obscur||verinós||impotent||cadavèric||momentani||secret";
+correccio[5]="minúscula||obscura||verinosa||impotent||cadavèrica||momentània||secreta";
+correccio[6]="minúsculs||obscurs||verinosos||impotents||cadavèrics||momentanis||secrets";
+correccio[7]="minúscules||obscures||verinoses||impotents||cadavèriques||momentànies||secretes";
+correccio[8]="minúscul||obscur||verinós||impotent||cadavèric||momentani||secret";
+correccio[9]="minúscula||obscura||verinosa||impotent||cadavèrica||momentània||secreta";
+correccio[10]="minúsculs||obscurs||verinosos||impotents||cadavèrics||momentanis||secrets";
+correccio[11]="minúscules||obscures||verinoses||impotents||cadavèriques||momentànies||secretes";
+correccio[12]="minúscul||obscur||verinós||impotent||cadavèric||momentani||secret";
+correccio[13]="minúscula||obscura||verinosa||impotent||cadavèrica||momentània||secreta";
+correccio[14]="minúsculs||obscurs||verinosos||impotents||cadavèrics||momentanis||secrets";
+correccio[15]="minúscules||obscures||verinoses||impotents||cadavèriques||momentànies||secretes";
+correccio[16]="minúscul||obscur||verinós||impotent||cadavèric||momentani||secret";
+correccio[17]="minúscula||obscura||verinosa||impotent||cadavèrica||momentània||secreta";
+correccio[18]="minúsculs||obscurs||verinosos||impotents||cadavèrics||momentanis||secrets";
+correccio[19]="minúscules||obscures||verinoses||impotents||cadavèriques||momentànies||secretes";
+correccio[20]="minúscul||obscur||verinós||impotent||cadavèric||momentani||secret";
+correccio[21]="minúscula||obscura||verinosa||impotent||cadavèrica||momentània||secreta";
+correccio[22]="minúsculs||obscurs||verinosos||impotents||cadavèrics||momentanis||secrets";
+correccio[23]="minúscules||obscures||verinoses||impotents||cadavèriques||momentànies||secretes";
+correccio[24]="minúscul||obscur||verinós||impotent||cadavèric||momentani||secret";
+correccio[25]="minúscula||obscura||verinosa||impotent||cadavèrica||momentània||secreta";
+correccio[26]="minúsculs||obscurs||verinosos||impotents||cadavèrics||momentanis||secrets";
+correccio[27]="minúscules||obscures||verinoses||impotents||cadavèriques||momentànies||secretes";
+

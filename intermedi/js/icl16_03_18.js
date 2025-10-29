@@ -1,0 +1,21 @@
+var nelements=17;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="promès";
+correccio[1]="encès";
+correccio[2]="pres";
+correccio[3]="vingut";
+correccio[4]="distret";
+correccio[5]="estès";
+correccio[6]="fos";
+correccio[7]="corregut";
+correccio[8]="escrit";
+correccio[9]="cuit";
+correccio[10]="dit";
+correccio[11]="caigut";
+correccio[12]="entès";
+correccio[13]="crescut";
+correccio[14]="vist";
+correccio[15]="nascut";
+correccio[16]="tret";

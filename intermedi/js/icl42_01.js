@@ -1,0 +1,26 @@
+var nelements=22;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="desconsolat||afligit";
+correccio[1]="afligit||desconsolat";
+correccio[2]="joiós||alegre";
+correccio[3]="alegre||joiós";
+correccio[4]="residència||habitatge";
+correccio[5]="habitatge||residència";
+correccio[6]="automòbil||vehicle";
+correccio[7]="vehicle||automòbil";
+correccio[8]="complex||dificultós";
+correccio[9]="dificultós||complex";
+correccio[10]="ignorant";
+correccio[11]="despit";
+correccio[12]="tauleta||vetllador";
+correccio[13]="vetllador||tauleta";
+correccio[14]="ruta||trajecte";
+correccio[15]="trajecte||ruta";
+correccio[16]="roba||indumentària";
+correccio[17]="indumentària||roba";
+correccio[18]="dolor||desplaer";
+correccio[19]="desplaer||dolor";
+correccio[20]="jutge||mediador";
+correccio[21]="mediador||jutge";

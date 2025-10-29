@@ -1,0 +1,30 @@
+var nelements=20;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0] = "pes";
+correccio[1] = "text";
+correccio[2] = "casos";
+correccio[3] = "impostos||imposts";
+correccio[4] = "pas";
+correccio[5] = "reflex";
+correccio[6] = "braços";
+correccio[7] = "annexos";
+correccio[8] = "nus";
+correccio[9] = "pretext";
+correccio[10] = "abusos";
+correccio[11] = "pressupostos||pressuposts";
+correccio[12] = "compromís";
+correccio[13] = "fix";
+correccio[14] = "interessos";
+correccio[15] = "gustos||gusts";
+correccio[16] = "progrés";
+correccio[17] = "raig";
+correccio[18] = "cascos";
+correccio[19] = "estotjos||estoigs";
+
+
+
+var nelements=20;
+var nomform="fnom03";
+

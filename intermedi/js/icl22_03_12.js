@@ -1,0 +1,20 @@
+var nelements=16;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0] = "hi he passat";
+correccio[1] = "hi sóc";
+correccio[2] = "hi arribaré";
+correccio[3] = "en surts";
+correccio[4] = "no hi vagis";
+correccio[5] = "passa-hi";
+correccio[6] = "en vingui";
+correccio[7] = "hi faré cap";
+correccio[8] = "hi seurem";
+correccio[9] = "no ens en mourem";
+correccio[10] = "no te\\'n moguis";
+correccio[11] = "en vingui";
+correccio[12] = "hi vagi";
+correccio[13] = "en vénen";
+correccio[14] = "hi van";
+correccio[15] = "hi passin";

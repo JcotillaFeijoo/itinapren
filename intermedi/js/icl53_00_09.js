@@ -1,0 +1,26 @@
+var nelements=22;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="governador";
+correccio[1]="treball";
+correccio[2]="saviesa";
+correccio[3]="buit";
+correccio[4]="enveja";
+correccio[5]="bullir";
+correccio[6]="veure";
+correccio[7]="barbut";
+correccio[8]="emprovar";
+correccio[9]="botifarra";
+correccio[10]="canvi";
+correccio[11]="trobar";
+correccio[12]="ganivet";
+correccio[13]="tombar";
+correccio[14]="gravat";
+correccio[15]="abocar";
+correccio[16]="favera";
+correccio[17]="rebentar";
+correccio[18]="esvelt";
+correccio[19]="saber";
+correccio[20]="cavaller";
+correccio[21]="arribar";

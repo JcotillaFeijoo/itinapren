@@ -1,0 +1,25 @@
+var nelementsdesp_a=20;
+var nomformdesp_a="fnom02";
+var possibilitats_despDE_a=4;
+
+var correcciodesp_a = new Array(nelementsdesp_a);
+correcciodesp_a[0] = "1";
+correcciodesp_a[1] = "2";
+correcciodesp_a[2] = "1";
+correcciodesp_a[3] = "2";
+correcciodesp_a[4] = "3";
+correcciodesp_a[5] = "1";
+correcciodesp_a[6] = "1";
+correcciodesp_a[7] = "1";
+correcciodesp_a[8] = "1";
+correcciodesp_a[9] = "3";
+correcciodesp_a[10] = "1";
+correcciodesp_a[11] = "2";
+correcciodesp_a[12] = "2";
+correcciodesp_a[13] = "1";
+correcciodesp_a[14] = "1";
+correcciodesp_a[15] = "1";
+correcciodesp_a[16] = "3";
+correcciodesp_a[17] = "1";
+correcciodesp_a[18] = "1";
+correcciodesp_a[19] = "1";

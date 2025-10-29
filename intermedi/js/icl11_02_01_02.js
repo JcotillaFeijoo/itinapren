@@ -1,0 +1,29 @@
+var nelements=24;
+var nomform="fnom01";
+
+var correccio = new Array(nelements);
+correccio[0]="raspallar";
+correccio[1]="igualar";
+correccio[2]="igualtat";
+correccio[3]="airejar";
+correccio[4]="purificar";
+correccio[5]="puresa";
+correccio[6]="gotejar";
+correccio[7]="facilitar";
+correccio[8]="facilitat";
+correccio[9]="fosquejar||enfosquir-se";
+correccio[10]="foscor";
+correccio[11]="escassejar";
+correccio[12]="escassetat||escassedat";
+correccio[13]="arrelar";
+correccio[14]="simplificar";
+correccio[15]="hospitalitzar";
+correccio[16]="espessir||espesseir";
+correccio[17]="espessor||espessiment";
+correccio[18]="salar";
+correccio[19]="salat";
+correccio[20]="buidar";
+correccio[21]="buidor";
+correccio[22]="verdejar||enverdir";
+correccio[23]="verdor";
+

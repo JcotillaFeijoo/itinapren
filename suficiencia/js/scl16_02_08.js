@@ -1,0 +1,24 @@
+var nelements=20;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="canviï";
+correccio[1]="situï";
+correccio[2]="estudiï";
+correccio[3]="triï";
+correccio[4]="situïs";
+correccio[5]="estudiïs";
+correccio[6]="triïs";
+correccio[7]="canviï";
+correccio[8]="estudiï";
+correccio[9]="triï";
+correccio[10]="canviem";
+correccio[11]="situem";
+correccio[12]="triem";
+correccio[13]="canvieu";
+correccio[14]="situeu";
+correccio[15]="estudieu";
+correccio[16]="canviïn";
+correccio[17]="situïn";
+correccio[18]="estudiïn";
+correccio[19]="triïn";

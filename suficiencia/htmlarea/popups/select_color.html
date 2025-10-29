@@ -1,0 +1,65 @@
+<!-- note: this version of the color picker is optimized for IE 5.5+ only -->
+
+<html><head><title>Itineraris d'aprenentatge. Sufici&egrave;ncia.</title>
+
+<script type="text/javascript" src="popup.js"></script>
+
+<script type="text/javascript">
+
+window.resizeTo(5, 5);
+function _CloseOnEsc() {
+  if (event.keyCode == 27) { window.close(); return; }
+}
+
+function Init() {                                                       // run on page load
+  __dlg_init();    // <!-- this can be found in popup.js -->
+  document.body.onkeypress = _CloseOnEsc;
+
+  var color = window.dialogArguments;
+  color = ValidateColor(color) || '000000';
+  View(color);                                                          // set default color
+}
+
+function View(color) {                  // preview color
+  //document.getElementById("ColorPreview").style.backgroundColor = '#' + color;
+  //document.getElementById("ColorHex").value = '#' + color;
+}
+
+function Set(string) {                   // select color
+  var color = ValidateColor(string);
+  if (color == null) { alert("Invalid color code: " + string); }        // invalid color
+  else {                                                                // valid color
+    View(color);                          // show selected color
+    __dlg_close(color);
+  }
+}
+
+function ValidateColor(string) {                // return valid color code
+  string = string || '';
+  string = string + "";
+  string = string.toUpperCase();
+  var chars = '0123456789ABCDEF';
+  var out   = '';
+
+  for (var i=0; i<string.length; i++) {             // remove invalid color chars
+    var schar = string.charAt(i);
+    if (chars.indexOf(schar) != -1) { out += schar; }
+  }
+
+  if (out.length != 6) { return null; }            // check length
+  return out;
+}
+
+</script>
+</head>
+<body style="background:ButtonFace; margin:0px; padding:0px" onload="Init()">
+
+
+
+<table border="0" cellspacing="1px" cellpadding="0px" width="100%" bgcolor="#000000" style="cursor: hand;">
+<tr>
+<td bgcolor=#FFFF00 onMouseOver=View('FFFF00') onClick=Set('FFFF00') height="10px" width="10px"></td>
+</tr>
+</table>
+
+</body></html>

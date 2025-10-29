@@ -1,0 +1,26 @@
+var nelements=22;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="El";
+correccio[1]="del";
+correccio[2]="a l\\'||d\\'";
+correccio[3]="dels||als";
+correccio[4]="els";
+correccio[5]="de l\\'";
+correccio[6]="a la";
+correccio[7]="de";
+correccio[8]="L\\'";
+correccio[9]="dels";
+correccio[10]="les";
+correccio[11]="de la";
+correccio[12]="Pel";
+correccio[13]="a l\\'";
+correccio[14]="l\\'";
+correccio[15]="pels||per";
+correccio[16]="per les||per";
+correccio[17]="l\\'";
+correccio[18]="de l\\'||a l\\'";
+correccio[19]="a la";
+correccio[20]="de la";
+correccio[21]="de l\\'";

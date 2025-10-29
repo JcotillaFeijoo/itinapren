@@ -1,0 +1,20 @@
+var nelements=16;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="tonyina";
+correccio[1]="sofrir";
+correccio[2]="botifarra";
+correccio[3]="embotits";
+correccio[4]="torró";
+correccio[5]="polit";
+correccio[6]="conservadorisme";
+correccio[7]="govern";
+correccio[8]="Escopir";
+correccio[9]="sospir";
+correccio[10]="Joan";
+correccio[11]="bufetades";
+correccio[12]="capítol";
+correccio[13]="subornen";
+correccio[14]="suportar-les";
+correccio[15]="turment";

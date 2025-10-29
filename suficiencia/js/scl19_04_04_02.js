@@ -1,0 +1,22 @@
+var nelements=18;
+var nomform="fnom01";
+
+var correccio = new Array(nelements);
+correccio[0] = "en";
+correccio[1] = "a||de";
+correccio[2] = "a||d\\'";
+correccio[3] = "en";
+correccio[4] = "en";
+correccio[5] = "a||de";
+correccio[6] = "de";
+correccio[7] = "en";
+correccio[8] = "en";
+correccio[9] = "a||de";
+correccio[10] = "en";
+correccio[11] = "a";
+correccio[12] = "en";
+correccio[13] = "a";
+correccio[14] = "a";
+correccio[15] = "en";
+correccio[16] = "a||d\\'";
+correccio[17] = "en";

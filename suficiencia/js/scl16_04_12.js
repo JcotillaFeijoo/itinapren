@@ -1,0 +1,21 @@
+var nelements=17;
+var nomform="fnom02";
+
+var correccio = new Array(nelements);
+correccio[0]="dius";
+correccio[1]="diria";
+correccio[2]="dient";
+correccio[3]="diré";
+correccio[4]="digui";
+correccio[5]="dirà";
+correccio[6]="dic";
+correccio[7]="dius";
+correccio[8]="digues";
+correccio[9]="diguessis";
+correccio[10]="deia";
+correccio[11]="digui";
+correccio[12]="digués";
+correccio[13]="digueu";
+correccio[14]="dirien";
+correccio[15]="dèieu";
+correccio[16]="dieu||diríeu";

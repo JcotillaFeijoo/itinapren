@@ -1,0 +1,20 @@
+var nelements=16;
+var nomform="fnom05";
+
+var correccio = new Array(nelements);
+correccio[0] = "apèndixs";
+correccio[1] = "faisans";
+correccio[2] = "artífexs";
+correccio[3] = "bens";
+correccio[4] = "comuns";
+correccio[5] = "hindús";
+correccio[6] = "purés";
+correccio[7] = "ximpanzés";
+correccio[8] = "sofàs";
+correccio[9] = "pretexts||pretextos";
+correccio[10] = "sufixos";
+correccio[11] = "hèlixs";
+correccio[12] = "trossos";
+correccio[13] = "bojos||boigs";
+correccio[14] = "gustos||gusts";
+correccio[15] = "boscos||boscs";
